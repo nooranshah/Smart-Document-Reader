@@ -75,9 +75,7 @@ curl -X 'POST' \
 
 ## Using Gemini
 - Gemini Docs:https://ai.google.dev/tutorials/python_quickstart
-- LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7145860319150505984/
-  
-![image](https://github.com/bhimrazy/receipt-ocr/assets/46085301/ee4a0c82-f134-4a19-a275-93a59c7503b8)
+- LinkedIn Post:www.linkedin.com/in/nooranshah
 
 
 ## License
